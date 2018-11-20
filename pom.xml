@@ -11,6 +11,7 @@
 
     <modules>
         <module>java9-features</module>
+        <module>java11-features</module>
     </modules>
 
 
